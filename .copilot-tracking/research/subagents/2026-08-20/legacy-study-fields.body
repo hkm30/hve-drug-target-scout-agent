@@ -1,0 +1,28 @@
+<StudyFieldsResponse>
+<APIVrs>1.2.0</APIVrs>
+<DataVrs>2026:08:19 09:00:06.000</DataVrs>
+<Expression>NCT04280705</Expression>
+<NStudiesAvail>599324</NStudiesAvail>
+<NStudiesFound>1</NStudiesFound>
+<MinRank>1</MinRank>
+<MaxRank>1</MaxRank>
+<NStudiesReturned>1</NStudiesReturned>
+<FieldList>
+  <Field>NCTId</Field>
+  <Field>OverallStatus</Field>
+  <Field>Phase</Field>
+</FieldList>
+<StudyFieldsList>
+  <StudyFields Rank="1">
+    <FieldValues Field="NCTId">
+      <FieldValue>NCT04280705</FieldValue>
+    </FieldValues>
+    <FieldValues Field="OverallStatus">
+      <FieldValue>Completed</FieldValue>
+    </FieldValues>
+    <FieldValues Field="Phase">
+      <FieldValue>Phase 3</FieldValue>
+    </FieldValues>
+  </StudyFields>
+</StudyFieldsList>
+</StudyFieldsResponse>

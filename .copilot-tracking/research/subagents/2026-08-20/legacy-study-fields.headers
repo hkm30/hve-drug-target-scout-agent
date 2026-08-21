@@ -1,0 +1,15 @@
+HTTP/2 200 
+date: Thu, 20 Aug 2026 09:14:15 GMT
+server: istio-envoy
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+content-type: text/xml; charset=UTF-8
+etag: "883b003/0.34.1/mszv29yo"
+x-envoy-upstream-service-time: 91
+set-cookie: ncbi_sid=[REDACTED]; Max-Age=31536000; Domain=clinicaltrials.gov; Path=/; $x-enc=URI_ENCODING
+vary: Accept-Encoding
+x-ua-compatible: IE=Edge
+x-xss-protection: 1; mode=block
+via: 1.1 google
+alt-svc: clear
+
